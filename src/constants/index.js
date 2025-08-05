@@ -145,7 +145,7 @@ export const myProjects = [
             {
                 id: 1,
                 name: 'React.js',
-                path: '/assets/react.svg',
+                path: '/assets/tech/reactjs.png',
             },
             {
                 id: 2,
